@@ -1,3 +1,8 @@
+'''
+simple rock paper scissors game taught to 5th graders 
+the program will allow them to play against another person, or a bot. 
+teaches conditionals, loops, input, and random
+'''
 player = input("1 or 2 players?")
 
 if (player == 1):
